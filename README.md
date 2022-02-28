@@ -21,7 +21,7 @@ Selain menggunakan Visual Studio Code, Anda dapat menggunakan Google Colab sebag
 
 ## Cara Menggunakan Program
 ### Menggunakan Visual Studio code
-1. Buka repository menggunakan Visual Studio Code
+1. Buka repository menggunakan Visual Studio Code, lalu buka file `main.ipynb`
 2. Di bagian atas terdapat tab seperti berikut
 ![image](https://user-images.githubusercontent.com/66018985/155969811-b9574ab3-3639-4da6-83a0-b1acf15954c7.png)  
     Klik `Run All` untuk menjalankan semua kode dalam program
